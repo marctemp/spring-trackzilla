@@ -1,0 +1,7 @@
+com/pluralsight/repository/ApplicationRepository.class
+com/pluralsight/entity/Release.class
+com/pluralsight/entity/Ticket.class
+com/pluralsight/repository/ReleaseRepository.class
+com/pluralsight/repository/TicketRepository.class
+com/pluralsight/entity/Application.class
+com/pluralsight/TrackzillaApplication.class
